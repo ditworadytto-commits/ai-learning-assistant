@@ -10,10 +10,10 @@ A full-stack MERN app that turns a PDF into something you can study from. Upload
 
 **Live demo:** _add your Vercel link here_ | **Author:** [Ditwora Biswas](https://www.linkedin.com/in/ditwora-biswas-b60760214)
 
-<!-- Add screenshots to docs/screenshots and uncomment:
-![Dashboard](docs/screenshots/dashboard.png)
+![Summary](docs/screenshots/summary.png)
 ![Chat](docs/screenshots/chat.png)
--->
+![Flashcards](docs/screenshots/flashcards.png)
+![Quiz](docs/screenshots/quiz.png)
 
 ## Features
 
